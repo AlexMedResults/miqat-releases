@@ -1,0 +1,14 @@
+{
+  "versionCode": 103,
+  "versionName": "1.3.3",
+  "releaseTag": "v1.3.3",
+  "apkUrl": "https://github.com/AlexMedResults/miqat-releases/releases/download/v1.3.3/miqat-v1.3.3.apk",
+  "sha256": "f1df219107f07283d1ff392427c3eb004f3452afa00c827765e72f20245ec22e",
+  "sizeBytes": 1423031,
+  "minSupportedVersionCode": 0,
+  "changelogAr": "تحسينات عامة وإصلاحات للأداء والاستقرار",
+  "releasedAt": "2026-11-21T23:40:40Z",
+  "announcementId": "",
+  "announcementTitle": "",
+  "announcementBody": ""
+}
