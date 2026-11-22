@@ -1,14 +1,14 @@
 {
-  "versionCode": 104,
-  "versionName": "1.3.4",
-  "releaseTag": "v1.3.4",
-  "apkUrl": "https://github.com/AlexMedResults/miqat-releases/releases/download/v1.3.4/miqat-v1.3.4.apk",
-  "sha256": "0e8526792a4837eafc7fe67248251906ab940fb40963e1347167726560825933",
+  "versionCode": 105,
+  "versionName": "1.3.5",
+  "releaseTag": "v1.3.5",
+  "apkUrl": "https://github.com/AlexMedResults/miqat-releases/releases/download/v1.3.5/miqat-v1.3.5.apk",
+  "sha256": "6178bb436482e47bc02e93cc803ca758be7ed58757e8d734609f36dada36a3a0",
   "sizeBytes": 1423031,
-  "minSupportedVersionCode": 104,
-  "changelogAr": "تحسينات عامة وإصلاحات للأداء والاستقرار",
-  "releasedAt": "2026-11-22T00:22:12Z",
-  "announcementId": "ann_104_2026-11-22",
-  "announcementTitle": "تتت",
-  "announcementBody": "عععع"
+  "minSupportedVersionCode": 105,
+  "changelogAr": "واحد",
+  "releasedAt": "2026-11-22T00:42:17Z",
+  "announcementId": "ann_105_20261122T004217Z",
+  "announcementTitle": "اتنين",
+  "announcementBody": "تلاتة"
 }
