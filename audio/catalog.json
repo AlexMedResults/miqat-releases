@@ -1,0 +1,44 @@
+{
+  "packs": [
+    {
+      "id": "pack_adhan_mohamed_gazi_e041e5",
+      "title": "الأذان بصوت الشيخ محمد جازي عبدالله",
+      "subtitle": "أذان كامل بجودة عالية",
+      "category": "adhan",
+      "sizeKb": 1696,
+      "files": {
+        "default": "files/pack_adhan_mohamed_gazi_e041e5.m4a"
+      }
+    },
+    {
+      "id": "pack_adhan_minshawi_804088",
+      "title": "الأذان بصوت الشيخ محمد صديق المنشاوي",
+      "subtitle": "أذان كامل بجودة عالية",
+      "category": "adhan",
+      "sizeKb": 1313,
+      "files": {
+        "default": "files/pack_adhan_minshawi_804088.m4a"
+      }
+    },
+    {
+      "id": "pack_adhan_naqshabandi_fajr_1e82a0",
+      "title": "الأذان بصوت الشيخ النقشبندي",
+      "subtitle": "أذان كامل بجودة عالية",
+      "category": "adhan",
+      "sizeKb": 1265,
+      "files": {
+        "default": "files/pack_adhan_naqshabandi_fajr_1e82a0.m4a"
+      }
+    },
+    {
+      "id": "pack_clip_hayya_egypt_a4a4d5",
+      "title": "مقطع حي علي الصلاة للشيخ محمد جازي عبدالله",
+      "subtitle": "مقطع قصير مميز للأذان أو التنبيه",
+      "category": "takbir",
+      "sizeKb": 1054,
+      "files": {
+        "default": "files/pack_clip_hayya_egypt_a4a4d5.m4a"
+      }
+    }
+  ]
+}
