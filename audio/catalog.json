@@ -1,6 +1,46 @@
 {
   "packs": [
     {
+      "id": "pack_fajr_refaat_fajr_522cc5",
+      "title": "اذان الفجر بصوت الشيخ محمد رفعت",
+      "subtitle": "أذان الفجر بالتثويب (يعمل للفجر تلقائياً)",
+      "category": "adhan_fajr",
+      "sizeKb": 1555,
+      "files": {
+        "FAJR": "files/pack_fajr_refaat_fajr_522cc5.m4a"
+      }
+    },
+    {
+      "id": "pack_fajr_nina3_0ccd7a",
+      "title": "اذان الفجر بصوت الشيخ احمد نعينع",
+      "subtitle": "أذان الفجر بالتثويب (يعمل للفجر تلقائياً)",
+      "category": "adhan_fajr",
+      "sizeKb": 1884,
+      "files": {
+        "FAJR": "files/pack_fajr_nina3_0ccd7a.m4a"
+      }
+    },
+    {
+      "id": "pack_fajr_ahmed_mohamed_amer_f1c890",
+      "title": "اذان الفجر بصوت الشيخ أحمد محمد عامر",
+      "subtitle": "أذان الفجر بالتثويب (يعمل للفجر تلقائياً)",
+      "category": "adhan_fajr",
+      "sizeKb": 1501,
+      "files": {
+        "FAJR": "files/pack_fajr_ahmed_mohamed_amer_f1c890.m4a"
+      }
+    },
+    {
+      "id": "pack_fajr_mahmod_elbanna_a6d605",
+      "title": "اذان الفجر بصوت الشيخ محمود البنا",
+      "subtitle": "أذان الفجر بالتثويب (يعمل للفجر تلقائياً)",
+      "category": "adhan_fajr",
+      "sizeKb": 1369,
+      "files": {
+        "FAJR": "files/pack_fajr_mahmod_elbanna_a6d605.m4a"
+      }
+    },
+    {
       "id": "pack_adhan_mohamed_gazi_e041e5",
       "title": "الأذان بصوت الشيخ محمد جازي عبدالله",
       "subtitle": "أذان كامل بجودة عالية",
