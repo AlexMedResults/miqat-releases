@@ -1,14 +1,14 @@
 {
-  "versionCode": 147,
-  "versionName": "1.4.2",
-  "releaseTag": "v1.4.2",
-  "apkUrl": "https://github.com/AlexMedResults/miqat-releases/releases/download/v1.4.2/miqat-v1.4.2.apk",
-  "sha256": "b5d5bf57b6eb8a1e1e580c28a7d0a92f70f9f3dda53e58d858e4f24c0fc50e9c",
+  "versionCode": 149,
+  "versionName": "1.4.3",
+  "releaseTag": "v1.4.3",
+  "apkUrl": "https://github.com/AlexMedResults/miqat-releases/releases/download/v1.4.3/miqat-v1.4.3.apk",
+  "sha256": "ebd3db1e38acc8dd52ffc9f57e6e429d31b4e81c86f91a7f6dd48600ec309a5e",
   "sizeBytes": 2378847,
-  "minSupportedVersionCode": 147,
+  "minSupportedVersionCode": 149,
   "changelogAr": "• حل مشكلة تراكم الإشعارات: يتم الآن مسح إشعارات الصلوات السابقة تلقائياً مع دخول كل صلاة، واختفاء الإشعار تلقائياً عند انتهاء وقت الصلاة.\n• توحيد طبعة وترقيم أحاديث الأذكار على الطبعات المطبوعة القياسية المعتمدة، مع عرض اسم الطبعة والجزء والصفحة وبيان «متفق عليه» و«لفظ المتن» ورابط مباشر للتحقق.",
-  "releasedAt": "2026-11-24T22:09:35Z",
-  "announcementId": "ann_147_20261124T220935Z",
+  "releasedAt": "2026-11-24T22:26:27Z",
+  "announcementId": "ann_149_20261124T222627Z",
   "announcementTitle": "تحديث جديد ومميز لميقات 🌙",
   "announcementBody": "• حل مشكلة تراكم الإشعارات: يتم الآن مسح إشعارات الصلوات السابقة تلقائياً مع دخول كل صلاة، واختفاء الإشعار تلقائياً عند انتهاء وقت الصلاة.\n• توحيد طبعة وترقيم أحاديث الأذكار على الطبعات المطبوعة القياسية المعتمدة، مع عرض اسم الطبعة والجزء والصفحة وبيان «متفق عليه» و«لفظ المتن» ورابط مباشر للتحقق."
 }
