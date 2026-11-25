@@ -1,13 +1,13 @@
 {
-  "versionCode": 150,
+  "versionCode": 151,
   "versionName": "1.4.4",
-  "releaseTag": "staging-v1.4.4-b150",
-  "apkUrl": "https://github.com/AlexMedResults/miqat-releases/releases/download/staging-v1.4.4-b150/miqat-staging-v1.4.4-b150.apk",
-  "sha256": "ce1f73dfba9496ddb63e225c4e54e2725056add10ed11865c4610dad8d2d146e",
+  "releaseTag": "staging-v1.4.4-b151",
+  "apkUrl": "https://github.com/AlexMedResults/miqat-releases/releases/download/staging-v1.4.4-b151/miqat-staging-v1.4.4-b151.apk",
+  "sha256": "d97b00b5424d0ab6fed7f5a944ce92e0cf0827c900acec5bc76eb6ca404c78f6",
   "sizeBytes": 2397275,
   "minSupportedVersionCode": 0,
   "changelogAr": "تحسينات عامة وإصلاحات للأداء والاستقرار",
-  "releasedAt": "2026-11-25T14:40:07Z",
+  "releasedAt": "2026-11-25T15:04:02Z",
   "announcementId": "",
   "announcementTitle": "",
   "announcementBody": ""
